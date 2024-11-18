@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "Observer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{AEE01209-E8AB-4D90-B889-CBFB487D13FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method", "Template Method\Template Method.csproj", "{3F4BA024-397E-49E2-9038-107C96734165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{4187CCD1-FF4D-43AE-B6BD-B07F138650CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{AEE01209-E8AB-4D90-B889-CBFB487D13FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE01209-E8AB-4D90-B889-CBFB487D13FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE01209-E8AB-4D90-B889-CBFB487D13FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4BA024-397E-49E2-9038-107C96734165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4BA024-397E-49E2-9038-107C96734165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4BA024-397E-49E2-9038-107C96734165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4BA024-397E-49E2-9038-107C96734165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4187CCD1-FF4D-43AE-B6BD-B07F138650CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4187CCD1-FF4D-43AE-B6BD-B07F138650CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4187CCD1-FF4D-43AE-B6BD-B07F138650CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4187CCD1-FF4D-43AE-B6BD-B07F138650CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
